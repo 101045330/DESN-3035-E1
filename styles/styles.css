@@ -24,14 +24,14 @@ main {
 
 /*design style guide for image and buttons and user interaction */
 img{border-radius: 10px; opacity: 0.8;}
+
 .button1 {
     padding: 0.5em 1em;
     background-color: #6f777f !important;
     color: white;
     border: none;
-    border-radius: 5px;
     cursor: pointer;
-    border-radius: 2px;
+    border-radius: 2px; display: inline-block;
 }
 
 .button1:hover {
