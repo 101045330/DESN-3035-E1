@@ -1,6 +1,7 @@
-
+/* basic reset, will be updated later */
 *{margin:0;padding:0;}
 
+/*design specification for semantic tag */
 body {
   
     margin: 0;
@@ -21,6 +22,8 @@ main {
     text-align: center;
 }
 
+/*design style guide for image and buttons and user interaction */
+img{border-radius: 10px; opacity: 0.8;}
 .button1 {
     padding: 0.5em 1em;
     background-color: #6f777f !important;
@@ -34,5 +37,5 @@ main {
 .button1:hover {
     background-color: #0056b3;
 }
-img{border-radius: 10px; opacity: 0.8;}
+
 img:hover{opacity: 1;}
