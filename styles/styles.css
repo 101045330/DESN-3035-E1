@@ -32,7 +32,7 @@ img{border-radius: 10px; opacity: 0.8;}
     color: white;
     border: none;
     cursor: pointer;
-    border-radius: 2px; display: inline-block;
+    border-radius: 2px; 
 }
 
 .button1:hover {
